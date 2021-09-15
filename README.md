@@ -1,2 +1,2 @@
-# begining
+# beginning
 Hometask. Nothing more, nothing less
